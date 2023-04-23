@@ -1,0 +1,47 @@
+.header_top {
+    width: -webkit-fill-available;
+    // position: fixed;
+    z-index: 1;
+    img {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+    }
+
+    .dropdown-menu {
+        margin-left: -120px !important;
+
+    }
+
+    .d-flex {
+        margin-left: 387px;
+    }
+
+    .me-2 {
+        width: 400px;
+        
+    }
+
+}
+
+.tt {
+    .icon {
+
+        position: absolute;
+        right: 100px;
+        bottom: 17px;
+
+        .icon_item {
+            font-size: 30px;
+            padding-right: 30px;
+        }
+
+    }
+  
+}
+
+.btn_signin{
+   .btn_dn{
+    margin-right: 20px;
+   } 
+}

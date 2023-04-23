@@ -1,0 +1,70 @@
+.User {
+    position: relative;
+
+    .bg_user {
+        // background-color: rgba(164, 189, 177, 0.5);
+        
+        text-align: center;
+        height: 300px;
+        
+        img {
+            height: 110%;
+            width: 100%;
+            // max-width: 100%;
+            // max-height: 100%;
+            border-radius: 20px;
+        }
+
+        .bt-bg {
+            position: absolute;
+            left: 1100px;
+            bottom: 10px;
+        }
+
+    }
+
+    .img_acatar {
+
+        position: absolute;
+        height: 150px;
+        width: 400px;
+        left: 110px;
+        top: 320px;
+
+        img {
+
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+        }
+
+        span {
+
+            font-size: 30px;
+        }
+
+    }
+
+}
+
+.status_from {
+
+    .status_user {
+        margin: 300px 600px;
+        background-color: bisque;
+        width: 50%;
+        height: 500px;
+        margin-left: 600px;
+        margin-top: 30px;
+        
+        border: 1px solid;
+        border-radius: 5px;
+    }
+
+    .st_img {
+        // border: 5px dashed green;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+    }
+}

@@ -1,0 +1,17 @@
+.my{
+    
+    display: grid;
+    column-gap: 50px;
+    margin-left: 10%;
+    position: relative;
+   
+
+    .pic_left{
+        position: absolute;
+        top: 38px;
+    }
+    .pic_left1{
+        position: absolute;
+        top: 250px;
+    }
+}
